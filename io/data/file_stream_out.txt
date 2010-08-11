@@ -1,0 +1,2 @@
+Line 1:write data to file test
+Line 2:
