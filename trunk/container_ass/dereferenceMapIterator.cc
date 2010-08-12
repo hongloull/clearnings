@@ -28,7 +28,7 @@ int dereferenceMapIterator() {
 	return 0 ;
 }
 
-int main() {
-	dereferenceMapIterator() ;
-	return 0 ;
-}
+//int main() {
+//	dereferenceMapIterator() ;
+//	return 0 ;
+//}
